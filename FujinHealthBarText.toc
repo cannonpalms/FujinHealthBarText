@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: FujinHealthBarText
+## Author: Cannon
+## Notes: Displays current HP in the default healthbar frame
+## Version: 1.0.0
+
+Libs\embeds.xml
+core.lua
